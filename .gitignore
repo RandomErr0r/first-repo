@@ -1,0 +1,7 @@
+### Pythone template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/productions.json
