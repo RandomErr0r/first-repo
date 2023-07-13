@@ -1,14 +1,9 @@
-### Pythone template
+### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 docker-compose.yaml
 log/
 resources/productions.json
-<<<<<<< HEAD
 node_modules
 package-lock.json
-=======
-node modules
-package-lock.json
->>>>>>> 1f931f4b93321d4b40ea3fc7423b1493743f9736
