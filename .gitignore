@@ -5,5 +5,10 @@ __pycache__/
 docker-compose.yaml
 log/
 resources/productions.json
+<<<<<<< HEAD
 node_modules
 package-lock.json
+=======
+node modules
+package-lock.json
+>>>>>>> 1f931f4b93321d4b40ea3fc7423b1493743f9736
