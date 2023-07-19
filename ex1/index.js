@@ -1,4 +1,4 @@
-const http = reqire('http')
+const http = require('http')
 const port = 8080
 
 const server = http.createServer((req, res) => {
